@@ -1,5 +1,5 @@
 # Hi 👋, I'm Maahi
-![](https://komarev.com/ghpvc/?username=muntaqam)
+
 
 💻 Check out my portfolio website: https://muntaqamaahi.com/
 
